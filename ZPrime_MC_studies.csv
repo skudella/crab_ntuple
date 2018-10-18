@@ -1,0 +1,9 @@
+name,dataset,#events,XS,weighting,weighting on 1fb-1,boosted_dataset,globalTag,isData,generator
+DATA_runB2_vers2v2,/JetHT/Run2016B-03Feb2017_ver2-v2/MINIAOD,133752091,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runC,/JetHT/Run2016C-03Feb2017-v1/MINIAOD,46495988,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runD,/JetHT/Run2016D-03Feb2017-v1/MINIAOD,73330042,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runE,/JetHT/Run2016E-03Feb2017-v1/MINIAOD,69233002,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runF,/JetHT/Run2016F-03Feb2017-v1/MINIAOD,48178726,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runG,/JetHT/Run2016G-03Feb2017-v1/MINIAOD,120731331,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runH_vers2v1,/JetHT/Run2016H-03Feb2017_ver3-v1/MINIAOD,121001702,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified
+DATA_runH_vers3v3,/JetHT/Run2016H-03Feb2017_ver3-v1/MINIAOD,3053089,0,1,1,NONE,80X_dataRun2_2016SeptRepro_v7,TRUE,notSpecified

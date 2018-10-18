@@ -1,0 +1,10 @@
+name,dataset,nGen,Npos-Nneg/Ntotal,XS,weight,boosted_dataset,globalTag,isData,generator
+ttbb,/ttbb_4FS_ckm_amcatnlo_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM,1997520,0.2848379177,1,0.001757564,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,aMC
+ttbb_ext1,/ttbb_4FS_ckm_amcatnlo_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v2/MINIAODSIM,3932776,0.2848379177,1,0.0008926948,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,aMC
+,,,,,,,,,
+ttbar_amc_pythia,/TT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM,19090400,0.4913182542,831.76,0.0886788603,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,aMC
+ttbar_amc_pythia_ext1,/TT_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/MINIAODSIM,19147000,0.3382358804,831.76,0.128433293,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,aMC
+,,,,,,,,,
+ttbar_powheg_pythia_ext3,/TT_TuneCUETP8M1_13TeV-powheg-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext3-v1/MINIAODSIM,97994442,1,831.76,0.0084878283,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,POWHEG
+,,,,,,,,,
+ttjets_madgraphMLM_pythia,/TTJets_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM,10215131,1,831.76,0.0814243107,NONE,76X_mcRun2_asymptotic_RunIIFall15DR76_v0,FALSE,MadGraph
